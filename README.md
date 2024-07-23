@@ -4,8 +4,10 @@ Welcome to the companion repository for the Knox Ethical Hacking Series. This re
 
 ## Repository Contents
 
-1. [Part 1 - notes](part_1_notes/part_1_notes.md)
-2. [Part 2 - notes](part_2_notes/part_2_notes.md)
+1. [Part 1 - Download and Install Cursor, Kali, VMware Workstation - notes](part_1_notes/part_1_notes.md)
+2. [Part 2 - Setup SSH and ShellGPT -notes](part_2_notes/part_2_notes.md)
+3. [Part 3 - Try Hack Me CTF: Rootme - notes](part_3_notes/part_3_notes.md)
+
 (More content will be added as the series progresses)
 
 ## Getting Started
