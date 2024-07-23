@@ -49,7 +49,11 @@ sudo systemctl status ssh
 
 1. Install OpenSSH Client and Server:
  - Go to Start Menu > Optional Features
- -Add OpenSSH Client and OpenSSH Server
+ ![image](add_optional_features.png)
+ - Add OpenSSH Client and OpenSSH Server
+ ![image](optional_features.png)
+ - Verify installation
+ ![image](openssh-server.png)
 
 2. Generate SSH key (open PowerShell as admin):
  ```
