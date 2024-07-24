@@ -1,4 +1,5 @@
 # Knox Ethical Hacking Series
+YouTube Playlist: https://www.youtube.com/watch?v=T3J4PnuBEro&list=PLwE5zomi9m9u7_vtfRulC8ZOP7OHK6ZYg 
 
 Welcome to the companion repository for the Knox Ethical Hacking Series. This repo contains notes and guides to accompany the video series.
 
